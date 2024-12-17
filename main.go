@@ -52,7 +52,7 @@ func main() {
 	}()
 
 	// Tables to be shuffled
-	tables := []string{"table1", "table2", "table3"}
+	tables := []string{"table_1", "table_2", "table_3"}
 
 	// Infinite loop to shuffle tables periodically
 	for {
